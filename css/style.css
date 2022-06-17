@@ -1,3 +1,7 @@
+*{
+	font-family: 'Open Sans', sans-serif;
+}
+
 body{
 	font-size: 14px;
 }
@@ -28,4 +32,18 @@ footer h3{
 }
 footer h3 span{
 	color: #fca756;
+}
+
+#button-ver-video{
+	width: 12%;
+}
+
+#parrafo-hero,#titulo-hero{
+	color: #fff;
+}
+#titulo-hero{
+
+}
+#container{
+	margin-top: 100px;
 }
